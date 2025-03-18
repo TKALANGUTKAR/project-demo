@@ -2,4 +2,7 @@
 my first git repo
 
 <br>
-message
+mail
+
+first message on vs
+second 
